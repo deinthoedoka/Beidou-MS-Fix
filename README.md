@@ -77,7 +77,7 @@ yarn build      # 生产构建，产物拷入服务端 static 目录，同源发
 
 ## 客户端
 
-服务端与客户端均已打包，可在 [Release](https://github.com/BeiDouMS/BeiDou-Server/releases) 页面下载。
+服务端与客户端均已打包，可在 [Release](https://github.com/deinthoedoka/Beidou-MS-Fix/releases/tag/fix-1.00) 页面下载。
 
 ---
 
