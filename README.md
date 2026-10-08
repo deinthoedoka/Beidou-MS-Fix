@@ -43,8 +43,3 @@
 - [HeavenMS](https://github.com/ronancpl/HeavenMS) —— Cosmic 的前身
 - [maplestory.io](https://maplestory.io) —— 管理后台的图片接口
 
----
-
-## 许可
-
-本项目基于 **AGPL-3.0** 发布，详见 [LICENSE](LICENSE)。
